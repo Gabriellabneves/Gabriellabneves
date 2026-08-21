@@ -1,4 +1,5 @@
-## Hi there 👋
+## Linkedin: *https://www.linkedin.com/in/gabriella-barbosa-364aaa405/*
+## Dev.to: *https://dev.to/gabriella_barbosa_neves*
 
 <!--
 **Gabriellabneves/Gabriellabneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
