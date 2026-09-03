@@ -16,17 +16,18 @@ Sou estudante de **Sistemas de Informação** no **2º semestre** na **Universid
 ### 💻 Tecnologias & Ferramentas
 
 **Linguagens de Programação:**
-- 🐍 Python ✓ (já aprendido)
-- 🌐 HTML ✓ (aprendendo)
-- 🎨 CSS ✓ (aprendendo)
-- 🗄️ SQL ✓ (aprendendo)
-- 🔤 C ✓ (aprendendo)
+- 🐍 Python 
+- 🌐 HTML 
+- 🎨 CSS 
+- 🗄️ SQL 
+- 🔤 C  
 
-**Design & Prototipagem:**
-- 🎨 UI/UX Design ✓ (já aprendido)
+**Ferramentas:**
+- 🎨 UI/UX Design 
 - 🎯 Figma
 - 📐 Miro
 - ✏️ Draw.io
+- ✏️ brModelo
 
 ---
 
@@ -35,7 +36,7 @@ Sou estudante de **Sistemas de Informação** no **2º semestre** na **Universid
 - 🔭 Desenvolvendo habilidades em **front-end** (HTML, CSS)
 - 🌱 Aprimorando conhecimentos em **banco de dados** (SQL)
 - 📚 Explorando **design de interfaces** com Figma
-- 💪 Fortalecendo base em **programação** com C
+- 💪 Fortalecendo base em **programação** com C e Python
 
 ---
 
@@ -52,15 +53,6 @@ Sou estudante de **Sistemas de Informação** no **2º semestre** na **Universid
 - 💼 **LinkedIn:** [Gabriella Barbosa](https://www.linkedin.com/in/gabriella-barbosa-364aaa405/)
 - 📖 **Dev.to:** [@gabriella_barbosa_neves](https://dev.to/gabriella_barbosa_neves)
 - 🐙 **GitHub:** [@Gabriellabneves](https://github.com/Gabriellabneves)
-
----
-
-### ⚡ Fun Facts
-
-- 🎮 Amante de tecnologia e inovação
-- 🎨 Design é minha paixão
-- 🌍 Sempre explorando novas ferramentas e tendências tech
-- ☕ Melhor com café enquanto codifico!
 
 ---
 
